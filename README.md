@@ -4,7 +4,7 @@ I'm Seunghwan Kim, and I'm undergraduate student at Dept. of CSE, Korea Universi
 
 I am currently an undergraduate intern at [KU PLRG](https://plrg.korea.ac.kr/)!
 
-[My Blog](https://tmdghks.github.io/)
+[My Blog](https://tmdghks.github.io/) | [KU PLRG Member Page](https://plrg.korea.ac.kr/members/seunghwan.kim)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdghks&layout=compact&exclude_repo=tmdghks.github.io)
 
