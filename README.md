@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Seunghwan Kim, and I'm undergraduate student at Dept. of CSE, Korea University
+
+I am currently an undergraduate interen at ![KU PLRG](https://plrg.korea.ac.kr/).
+
+![My Blog](https://tmdghks.github.io/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--
 **tmdghks/tmdghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
