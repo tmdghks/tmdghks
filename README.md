@@ -2,11 +2,7 @@
 
 I'm Seunghwan Kim, and I'm undergraduate student at Dept. of CSE, Korea University.
 
-I am currently an undergraduate intern at [KU PLRG](https://plrg.korea.ac.kr/)!
-
-[My Blog](https://tmdghks.github.io/) | [KU PLRG Member Page](https://plrg.korea.ac.kr/members/seunghwan.kim)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdghks&layout=compact&exclude_repo=tmdghks.github.io)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdghks)](https://solved.ac/tmdghks/)
 
 <!--
 **tmdghks/tmdghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
